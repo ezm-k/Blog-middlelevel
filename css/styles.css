@@ -270,7 +270,7 @@ main .text {
   text-align-last: left;
 }
 
-.menu .menu-list {
+.menu .menu-list > li:last-child {
   border-bottom: solid 1px #777;
 }
 
